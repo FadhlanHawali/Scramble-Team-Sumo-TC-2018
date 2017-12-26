@@ -218,6 +218,7 @@ namespace Drawing_Team_TC_Label
         private void label61_Click(object sender, EventArgs e)
         {
             this.label63.Text = this.label61.Text + "\n" + "Hore Menang";
+
         }
     }
 }
